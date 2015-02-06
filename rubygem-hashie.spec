@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.4.0
-Release:    %mkrel 1
+Release:    2
 Summary:    Your friendly neighborhood hash toolkit
 Group:      Development/Ruby
 License:    MIT
