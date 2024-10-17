@@ -6,7 +6,7 @@ Release:    2
 Summary:    Your friendly neighborhood hash toolkit
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/intridea/hashie
+URL:        https://github.com/intridea/hashie
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
